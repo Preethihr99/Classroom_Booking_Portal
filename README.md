@@ -10,13 +10,13 @@ The My profile options shows all user details like name , password, email etc. T
 PROPOSED SYSTEM
 The proposed system overcomes the drawbacks of the existing system. All the activities happening in the classrooms are automated. Due to computerization of all the data all operations become easy and time saving. It allows fast access to any particular data, for example student can book the room immediately by sitting in room instead of going to the particular place for booking which was time consuming , as in the existing system as every student has to be select manually. There are very few chances of losing any data because all the data is stored in files. Cancelling of the courses that are requested by the student if the admin didn’t accept the request.
 
-ADVANTAGES OF PROPOSED SYSTEM:
-•	All the activities of the classrooms are automated.
-•	Student and Faulty data is maintained by the system.
-•	Allows fast access to data.
-•	Student database is maintained which will be helpful for services and other activities
-•	User friendly
-•	Very secure
+ADVANTAGES OF PROPOSED SYSTEM:\
+•	All the activities of the classrooms are automated.\
+•	Student and Faulty data is maintained by the system.\
+•	Allows fast access to data.\
+•	Student database is maintained which will be helpful for services and other activities.\
+•	User friendly.\
+•	Very secure.\
 
 DISADVANTAGES OF PROPOSED SYSTEM
 
